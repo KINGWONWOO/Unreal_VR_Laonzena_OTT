@@ -54,14 +54,13 @@ https://github.com/user-attachments/assets/0c66cf66-0e32-427b-852c-8267d9d6bbe5
 
 ### 4.1 VR 공간 선택 UI (Virtual Stage Selection UI)
 
-
+<img src="Doc/Images/UI.png" width="400" height="225" style="aspect-ratio: 16/9; object-fit: cover;">
 
 * **역할**: 사용자가 VR 환경에서 'Laonzena' 무대 리스트를 확인하고 선택할 수 UI를 구현했습니다.
 * **구현**:
    - VR Interaction: 레이 캐스팅(Ray Casting) 기반의 UI 상호작용을 통해 직관적으로 공연 장소를 이동할 수 있도록 설계했습니다.
 
 ### 4.2 실감형 미디어 재생 (Immersive Playback)
-<img src="Doc/Images/Media.png" width="400" height="225" style="aspect-ratio: 16/9; object-fit: cover;">
 
 * **역할**: 단순히 영상을 띄우는 것이 아니라, 가상으로 재구성된 무대 위 스크린 혹은 360도 환경에 영상을 투사합니다.
 * **구현**:
