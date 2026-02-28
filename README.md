@@ -29,6 +29,10 @@
 
 https://github.com/user-attachments/assets/0c66cf66-0e32-427b-852c-8267d9d6bbe5
 
+*Transition 예시*
+
+https://github.com/user-attachments/assets/cfa14aa8-5916-4084-bf46-9564c10a58cd
+
 ---
 
 ## 🛠️ 3. 사용 기술 (Tech Stack)
