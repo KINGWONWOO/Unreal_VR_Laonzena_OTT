@@ -25,7 +25,13 @@
 
 ## 🎥 2. 시연 영상 (Demo Video)
 
-*화질이 많이 낮습니다. 죄송합니다*
+
+
+Uploading rockwithyou2 (1).mp4…
+
+
+
+*VR 시연 버전은 화질이 많이 낮습니다. 양해 바랍니다.*
 
 https://github.com/user-attachments/assets/0c66cf66-0e32-427b-852c-8267d9d6bbe5
 
