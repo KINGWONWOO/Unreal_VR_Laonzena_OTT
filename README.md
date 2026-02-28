@@ -1,6 +1,6 @@
 # 🥽 Unreal VR Laonzena OTT Project
 
-![Laonzena Logo](Doc/Images/Laonzena.png)
+![Laonzena Logo](Doc/Images/Laonzena.jpg)
 
 > **"과거의 무대, 그 뜨거웠던 현장 속으로 — VR 실감형 댄스 공연 OTT 플랫폼"**
 >
@@ -25,9 +25,9 @@
 
 ## 🎥 2. 시연 영상 (Demo Video)
 
-> *아래 링크를 클릭하면 유튜브에서 고화질로 시청할 수 있습니다. (YouTube)*
+*화질이 많이 낮습니다. 죄송합니다*
 
-[유튜브에서 보기](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+https://github.com/user-attachments/assets/0c66cf66-0e32-427b-852c-8267d9d6bbe5
 
 ---
 
