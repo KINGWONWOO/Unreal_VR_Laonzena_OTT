@@ -59,7 +59,7 @@ https://github.com/user-attachments/assets/cfa14aa8-5916-4084-bf46-9564c10a58cd
    - VR Interaction: 레이 캐스팅(Ray Casting) 기반의 UI 상호작용을 통해 직관적으로 공연 장소를 이동할 수 있도록 설계했습니다.
 
 ### 4.2 실감형 미디어 재생 (Immersive Playback)
-<img src="Doc/Images/Lobby.png" width="400" height="225" style="aspect-ratio: 16/9; object-fit: cover;">
+<img src="Doc/Images/Media.png" width="400" height="225" style="aspect-ratio: 16/9; object-fit: cover;">
 
 * **역할**: 단순히 영상을 띄우는 것이 아니라, 가상으로 재구성된 무대 위 스크린 혹은 360도 환경에 영상을 투사합니다.
 * **구현**:
@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/cfa14aa8-5916-4084-bf46-9564c10a58cd
    - 입체 음향 설계 : 단순한 스테레오 출력을 넘어, 사용자의 머리 방향(HMD Tracking)에 따라 소리의 방향과 거리감이 실시간으로 변하는 HRTF(Head-Related Transfer Function) 기술을 적용했습니다. 공연장의 리버브(Reverb)와 감쇄(Attenuation) 설정을 통해, 실제 넓은 강당이나 야외 무대에서 느끼는 현장감 있는 사운드를 재현했습니다.
 
 ### 4.3 로딩 시스템 (Seamless Level Transition)
-<img src="Doc/Images/FruitGame.png" width="400" height="225" style="aspect-ratio: 16/9; object-fit: cover;">
+<img src="Doc/Images/Transition.png" width="400" height="225" style="aspect-ratio: 16/9; object-fit: cover;">
 
 * **역할**: 대용량의 공연장 맵과 고화질 영상 소스를 불러올 때 발생하는 화면 멈춤(Freezing) 현상을 방지하기 위해 비동기 로딩 방식을 채택했습니다.
 * **구현**:
